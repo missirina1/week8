@@ -17,7 +17,7 @@
 
 .vr__button--small,
 button {
-  background-color: rgba(82, 34, 208, 1);
+  background-color: rgba(83, 34, 208, 0.885);
   color: white;
   width: 7rem;
   height: 2rem;
